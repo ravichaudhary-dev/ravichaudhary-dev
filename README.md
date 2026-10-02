@@ -1,47 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ravi Chaudhary</h1>
-<h3 align="center">A passionate Developer from India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Python+Developer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=200&section=header&text=Ravi%20Chaudhary&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Python+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Learner" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://in.linkedin.com/in/ravi-chaudhary1611">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=ravichaudhary-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+</div>
 
 ---
 
 ### 💫 About Me
-- 🔭 Currently working on **Python Projects**
-- 🌱 Learning **Data Structures & Algorithms / Web Development**
-- 💬 Ask me about **Python & Logic Building**
-- ⚡ Fun Fact: **I love building clean & efficient code**
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravichaudhary-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=ravichaudhary-dev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichaudhary-dev&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+```text
+  _   _   _   _   _   _   _   _ 
+ / \ / \ / \ / \ / \ / \ / \ / \
+(  R  a  v  i  _  C  h  a  u  d  )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
